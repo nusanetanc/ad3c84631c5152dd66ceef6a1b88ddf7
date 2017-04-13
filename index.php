@@ -157,7 +157,7 @@ if(isset($_POST['kirim'])){
         </script>
         <style>
             body{
-                background-color:#0fb04b;
+                background-color:#FC592E;
             }
 
 
@@ -199,15 +199,15 @@ if(isset($_POST['kirim'])){
 
                             <tr>
                                 <td style="vertical-align:middle"><span>Pengirim</span></td>
-                                <td><input name="pengirim" style="padding-left:5px;background-color:#eee;" type="email" placeholder="no-reply@jkt.nusa.net.id" required/></td>
+                                <td><input name="pengirim" style="padding-left:5px;background-color:#eee;" type="email" placeholder="cs@groovy.id" required/></td>
                             </tr>
                             <tr>
                                 <td style="vertical-align:middle"><span>Nama Pengirim</span></td>
-                                <td><input name="nama" style="padding-left:5px;background-color:#eee;" type="text" placeholder="Nusanet Jakarta" required/></td>
+                                <td><input name="nama" style="padding-left:5px;background-color:#eee;" type="text" placeholder="Customer Service Groovy" required/></td>
                             </tr>
                             <tr>
                                 <td style="vertical-align:middle"><span>Subjek</span></td>
-                                <td><input name="subjek" style="padding-left:5px;background-color:#eee;" type="text" placeholder="Selamat Tahun Baru 2016" required/></td>
+                                <td><input name="subjek" style="padding-left:5px;background-color:#eee;" type="text" placeholder="Selamat Tahun Baru 2017" required/></td>
                             </tr>
                             <tr>
                                 <td style="vertical-align:middle"><span>Message</span></td>
@@ -215,7 +215,7 @@ if(isset($_POST['kirim'])){
                             </tr>
                             <tr>
                                 <td style="vertical-align:middle"><span>Sumber Laman</span></td>
-                                <td><input name="sumber" style="padding-left:5px;background-color:#eee;" type="text" placeholder="http://jkt.nusa.net.id/newsletter/sdf1d818d/tahun-baru-2016" required/></td>
+                                <td><input name="sumber" style="padding-left:5px;background-color:#eee;" type="text" placeholder="http://groovy.id/newsletter/sdf1d818d/tahun-baru-2017" required/></td>
                             </tr>
                             <tr>
                                 <td style="vertical-align:middle"><span></span></td>
